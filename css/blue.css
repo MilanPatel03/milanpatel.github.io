@@ -1,0 +1,16 @@
+:root {
+    --mainColor: #05151a;
+    --seconderyColor: #192734;
+
+    --borderColor: #000;
+
+    --mainText: #fff;
+    --seconderyText: #eeeeee;
+
+    --navbarColor: rgb(32, 44, 60);
+    --previewBg: #151d249e;
+    --previewShadow: #111921;
+    --buttonColor: #000624a6;
+    --skillcolor: #909baa;
+    --hoverColor: #2d4058;
+}
